@@ -1,4 +1,4 @@
-# HDZero ECO 摄像头（已停产）
+# HDZero ECO 摄像头
 
 ## 描述
 

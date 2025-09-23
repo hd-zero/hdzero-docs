@@ -88,7 +88,7 @@ HDZero BoxPro 包含一个单端口 HDMI 1.4b 接收器，可通过 mini HDMI �
 
 HDZero BoxPro 包括一个高性能单通道 HDMI 发射器，该发射器通过迷你 HDMI 端口完全符合 HDMI 1.3a 标准。
 
-HDMI 输出将显示与 OLED 显示屏上完全相同的内容。
+HDMI 输出将显示与 LED 显示屏上完全相同的内容。
 
 表 2. HDMI 输出格式
 

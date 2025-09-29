@@ -9,7 +9,6 @@ For Windows system:
 
 
 For Mac system:
-
 Great thanks to Gunther Votteler for developing the Mac utility to for the HDZero Programmer. Follow the directions here:
 https://github.com/gvotteler/hdzero-programmer-tool-mac
 

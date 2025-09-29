@@ -1,10 +1,16 @@
 # VTX Firmware Update Guide
 ## HDZero VTX Programmer
 
-<img src="/media/image24.png" id="image21">It is highly recommended to use [HDZero VTX Programmer](https://www.hd-zero.com/product-page/hdzero-vtx-programmer) to update VTX. Only Windows system is supported for now.
+<img src="/media/image24.png" id="image21">It is highly recommended to use [HDZero VTX Programmer](https://www.hd-zero.com/product-page/hdzero-vtx-programmer) to update VTX. 
 
+For Windows system:
 1. Download the HDZeroProgrammer.zip from [HDZero Download](https://www.hd-zero.com/document).    
 2. Extract HDZeroProgrammer.exe from the zip achieve to C:\HDZero
+
+For Mac system:
+Great thanks to Gunther Votteler for developing the Mac utility to for the HDZero Programmer. Follow the directions here:
+https://github.com/gvotteler/hdzero-programmer-tool-mac
+
 
 ## Update VTX Firmware with HDZero Programmer
 

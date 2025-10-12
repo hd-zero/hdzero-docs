@@ -25,7 +25,7 @@ Solder pads:
 </tr>
 <tr>
 <td>2</td>
-<td>Power/UART/SA solder pads</td>
+<td>Power/UART solder pads</td>
 </tr>
 <tr>
 <td>3</td>

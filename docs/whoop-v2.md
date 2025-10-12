@@ -1,6 +1,6 @@
 # Whoop V2 VTX
 
-The HDZero Whoop V2 VTX is a digital HD video transmitter capable of delivering up to 200mW on 5.8GHz. It supports all the HDZero cameras with MIPI connector, including Nano90. The Whoop V2 VTX features a compact 31×31mm board footprint with a standard 25.5×25.5mm mounting pattern, ensuring seamless integration into whoop-style and micro FPV frames.
+The HDZero Whoop V2 VTX is a digital HD video transmitter capable of delivering up to 200mW on 5.8GHz. It supports all the HDZero cameras with MIPI connector, including Nano90. This VTX features a compact 31×31mm board footprint with a standard 25.5×25.5mm mounting pattern, ensuring seamless integration into whoop-style and micro FPV frames.
 
 The power input range is 3V – 12.6V.
 

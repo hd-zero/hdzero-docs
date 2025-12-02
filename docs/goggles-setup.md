@@ -87,7 +87,7 @@ After goggle is powered on, you will see an image on the OLED displays. Complete
 ::: warning
 Notes: 
 1. Do not expose the lens directly to sunlight. Otherwise, the OLED displays might be damaged.
-2. The optical module surface of the HDZero goggles is coated. If wiped forcefully, it may leave permanent scratches that cannot be repaired and are not covered under warranty. It is recommended to use the cleaning cloth provided with the goggles, avoid applying pressure, and wipe gently with care.
+2. The optical module surface of the HDZero goggles is coated. If wiped forcefully, it may leave permanent scratches that cannot be repaired and are not covered under warranty. It is recommended to use the cleaning cloth provided with the goggles, avoid applying pressure, and wipe gently with care. Microfiber cloths can trap dust or debris that may scratch optical coatings, and you should never wipe the lens with your shirt. The safest method is to use a single-use eyeglass cleaning wipe (Zeiss is a popular option), and always wipe gently without applying pressure.
 
 :::
 

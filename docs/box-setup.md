@@ -86,7 +86,7 @@ The current firmware supports resolution up to 1080p60 and 720p100 for HDMI inpu
 
 The HDZero BoxPro includes a high-performance single channel HDMI transmitter that is fully compliant with HDMI 1.3a through a mini HDMI port.
 
-The HDMI output will display exactly the same content as what appears on the OLED displays.
+The HDMI output will display exactly the same content as what appears on the LCD displays.
 
 TABLE 2. HDMI Output Format
 
@@ -132,7 +132,7 @@ The AV input cable is not included. It is available on the [HDZero shop](http://
 <div style="display: flex; justify-content: space-around; text-align: center; gap: 20px;">
 
   <div style="flex: 1">
-    <img src="/boxmedia/image3.png" alt="FIG 1" style="height:180px; object-fit: contain;"><br>
+    <img src="/boxmedia/image4.png" alt="FIG 1" style="height:180px; object-fit: contain;"><br>
     FIG 1. AV input Jack
   </div>
 
@@ -142,7 +142,7 @@ The AV input cable is not included. It is available on the [HDZero shop](http://
   </div>
 
   <div style="flex: 1">
-    <img src="/boxmedia/image4.png" alt="FIG 3" style="height:180px; object-fit: contain;"><br>
+    <img src="/boxmedia/image3.png" alt="FIG 3" style="height:180px; object-fit: contain;"><br>
     FIG 3. Line In/Out Jack
   </div>
 

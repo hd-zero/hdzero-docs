@@ -12,7 +12,7 @@
 * Short Press “Enter” Moves tri-angle cursor
 * Long Press “Enter” toggles channel mode.
 * Star means “HDZero Only”
-* Sequare means “Analog Only”
+* Square means “Analog Only”
 
 <img src="/eventmedia/image4.png" id="image4">
 

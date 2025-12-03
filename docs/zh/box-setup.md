@@ -88,7 +88,7 @@ HDZero BoxPro 包含一个单端口 HDMI 1.4b 接收器，可通过 mini HDMI �
 
 HDZero BoxPro 包括一个高性能单通道 HDMI 发射器，该发射器通过迷你 HDMI 端口完全符合 HDMI 1.3a 标准。
 
-HDMI 输出将显示与 OLED 显示屏上完全相同的内容。
+HDMI 输出将显示与 LED 显示屏上完全相同的内容。
 
 表 2. HDMI 输出格式
 
@@ -134,7 +134,7 @@ HDZero BoxPro 支持通过 3.5 毫米 AV 插孔进行 AV 输入。其引脚排�
 <div style="display: flex; justify-content: space-around; text-align: center; gap: 20px;">
 
   <div style="flex: 1">
-    <img src="/boxmedia/image3.png" alt="FIG 1" style="height:180px; object-fit: contain;"><br>
+    <img src="/boxmedia/image4.png" alt="FIG 1" style="height:180px; object-fit: contain;"><br>
     图 1. AV input Jack
   </div>
 
@@ -144,7 +144,7 @@ HDZero BoxPro 支持通过 3.5 毫米 AV 插孔进行 AV 输入。其引脚排�
   </div>
 
   <div style="flex: 1">
-    <img src="/boxmedia/image4.png" alt="FIG 3" style="height:180px; object-fit: contain;"><br>
+    <img src="/boxmedia/image3.png" alt="FIG 3" style="height:180px; object-fit: contain;"><br>
     图 3. Line In/Out Jack
   </div>
 

@@ -1,4 +1,4 @@
-# HDZero ECO Camera (Outdated)
+# HDZero ECO Camera 
 
 ## Description
 

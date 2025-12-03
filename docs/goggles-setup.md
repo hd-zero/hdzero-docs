@@ -87,7 +87,7 @@ After goggle is powered on, you will see an image on the OLED displays. Complete
 ::: warning
 Notes: 
 1. Do not expose the lens directly to sunlight. Otherwise, the OLED displays might be damaged.
-2. The optical module surface of the HDZero goggles is coated. If wiped forcefully, it may leave permanent scratches that cannot be repaired and are not covered under warranty. It is recommended to use the cleaning cloth provided with the goggles, avoid applying pressure, and wipe gently with care.
+2. The optical module surface of the HDZero goggles is coated. If wiped forcefully, it may leave permanent scratches that cannot be repaired and are not covered under warranty. It is recommended to use the cleaning cloth provided with the goggles, avoid applying pressure, and wipe gently with care. Microfiber cloths can trap dust or debris that may scratch optical coatings, and you should never wipe the lens with your shirt. The safest method is to use a single-use eyeglass cleaning wipe (Zeiss is a popular option), and always wipe gently without applying pressure.
 
 :::
 
@@ -155,7 +155,7 @@ The AV input cable is not included. It is available on the [HDZero shop](http://
 <div style="display: flex; justify-content: space-around; text-align: center; gap: 20px;">
 
   <div style="flex: 1">
-    <img src="/boxmedia/image3.png" alt="FIG 1" style="height:180px; object-fit: contain;"><br>
+    <img src="/boxmedia/image4.png" alt="FIG 1" style="height:180px; object-fit: contain;"><br>
     FIG 1. AV input Jack
   </div>
 
@@ -165,7 +165,7 @@ The AV input cable is not included. It is available on the [HDZero shop](http://
   </div>
 
   <div style="flex: 1">
-    <img src="/boxmedia/image4.png" alt="FIG 3" style="height:180px; object-fit: contain;"><br>
+    <img src="/boxmedia/image3.png" alt="FIG 3" style="height:180px; object-fit: contain;"><br>
     FIG 3. Line In/Out Jack
   </div>
 

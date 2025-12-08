@@ -486,8 +486,211 @@ export default defineConfig({
                             },
                         ]
                     },
-                ]
-            }
-        }
-    }
+                ],
+            },
+        },
+        de: {
+            label: 'Deutsch',
+            lang: 'de-DE',
+            link: '/de',
+            themeConfig: {
+                editLink: {
+                    pattern:
+                        'https://github.com/hd-zero/hdzero-docs/edit/main/docs/:path',
+                },
+                nav: [{text: 'Dokumentation', link: '/de/'}],
+                sidebar: [
+                    {
+                        text: 'Home',
+                        items: [{text: 'Was ist HDZero?', link: '/de/'}],
+                    },
+                    {
+                        text: 'VTX',
+                        items: [
+                            {
+                                text: 'HDZero VTX Produkte',
+                                link: '/de/vtx-summary',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Whoop V2 VTX', link: '/de/whoop-v2'},
+                                    {text: 'Race V3 VTX', link: '/de/race-v3'},
+                                    {text: 'Freestyle V2 VTX', link: '/de/freestyle-v2'},
+                                    {text: 'ECO VTX', link: '/de/eco-bundle'},
+                                ],
+                            },
+                            {text: 'VTX Installationsdiagramm ', link: '/de/vtx-installation'},
+                            {text: 'Allgemeine Erwägungen', link: '/de/vtx-general'},
+                            {text: 'VTX LED-Muster', link: '/de/vtx-led'},
+                            {
+                                text: 'VTX Anleitung zum Firmware-Update',
+                                link: '/de/vtx-firmware-update',
+                            },
+                            {text: 'VTX Anschluss', link: '/de/vtx-sockets'},
+                            {text: 'FAQ', link: '/de/vtx-faq'},
+                            {
+                                text: 'Auslaufende Videosender',
+                                link: '/de/vtx-dis-summary',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Whoop VTX', link: '/de/whoop'},
+                                    {text: 'Whoop lite VTX', link: '/de/whoop-lite'},
+                                    {text: 'Race V1 VTX', link: '/de/race-v1'},
+                                    {text: 'Race V2 VTX', link: '/de/race-v2'},
+                                    {text: 'Freestyle V1 VTX', link: '/de/freestyle-v1'},
+                                ],
+                            },
+                            {text: 'Garantie / Gewährleistung', link: '/de/vtx-warranty'},
+                        ],
+                    },
+                    {
+                        text: 'VRX',
+                        items: [
+                            {
+                                text: 'Box Pro',
+                                link: '/de/box-introduction',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Einrichtung', link: '/de/box-setup'},
+                                    {text: 'Betrieb', link: '/de/box-operation'},
+                                    {
+                                        text: 'Firmware-Aktualisierung',
+                                        link: '/de/box-firmware-update',
+                                    },
+                                    {text: 'Fehlerbehebung', link: '/de/box-troubleshooting'},
+                                    {text: 'Garantie / Gewährleistung', link: '/de/box-warranty'},
+                                ],
+                            },
+                            {
+                                text: 'Goggles',
+                                link: '/de/goggles-introduction',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Einrichtung', link: '/de/goggles-setup'},
+                                    {text: 'Betrieb', link: '/de/goggles-operation'},
+                                    {
+                                        text: 'Firmware-Aktualisierung',
+                                        link: '/de/goggles-firmware-update',
+                                    },
+                                    {text: 'Fehlerbehebung', link: '/de/goggles-troubleshooting'},
+                                    {
+                                        text: 'Haftungsausschluss für OLED-Displays',
+                                        link: '/de/goggles-oled-display-disclaimer',
+                                    },
+                                    {
+                                        text: 'Garantie / Gewährleistung',
+                                        link: '/de/goggles-warranty',
+                                    },
+                                ],
+                            },
+                            {
+                                text: 'Monitor',
+                                link: '/de/monitor-introduction',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Einrichtung', link: '/de/monitor-setup'},
+                                    {text: 'Betrieb', link: '/de/monitor-operation'},
+                                    {
+                                        text: 'Firmware-Aktualisierung',
+                                        link: '/de/monitor-firmware-update',
+                                    },
+                                ],
+                            },
+                            {
+                                text: 'Event VRX',
+                                link: '/de/event-introduction',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Betrieb', link: '/de/event-operation'},
+                                    {
+                                        text: 'Firmware-Aktualisierung',
+                                        link: '/de/event-firmware-update',
+                                    },
+                                ],
+                            },
+                        ],
+                    },
+                    {
+                        text: 'FC & ESC',
+                        items: [
+                            {
+                                text: 'Halo Stack',
+                                link: '/de/halo-stack-introduction',
+                                collapsed: true,
+                                items: [
+                                    {
+                                        text: 'Halo Flight Controller (Flugsteuerung)',
+                                        link: '/de/halo-introduction',
+                                        collapsed: true,
+                                        items: [
+                                            {text: 'Verkabelung', link: '/de/halo-wiring'},
+                                            {text: 'Mit ELRS verbinden', link: '/de/halo-bind'},
+                                            {text: 'Firmware', link: '/de/halo-firmware'},
+                                        ],
+                                    },
+                                    {
+                                        text: 'Halo 4in1 70A ESC',
+                                        link: '/de/halo-esc-introduction',
+                                        collapsed: true,
+                                        items: [
+                                            {text: 'Verkabelung', link: '/de/halo-esc-wiring'},
+                                            {text: 'Firmware', link: '/de/halo-esc-firmware'},
+                                        ],
+                                    },
+                                ],
+                            },
+                            {
+                                text: 'AIO5',
+                                link: '/de/aio5-introduction',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Einbau', link: '/de/aio5-installation'},
+                                    {text: 'Mit ELRS verbinden', link: '/de/aio5-bind'},
+                                    {text: 'Firmware', link: '/de/aio5-firmware'},
+                                ],
+                            },
+                            {
+                                text: 'AIO15',
+                                link: '/de/aio15-introduction',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Einbau', link: '/de/aio15-installation'},
+                                    {text: 'Mit ELRS verbinden', link: '/de/aio15-bind'},
+                                    {text: 'Firmware', link: '/de/aio15-firmware'},
+                                ],
+                            },
+                        ],
+                    },
+                    {
+                        text: 'Camera',
+                        items: [
+                            {
+                                text: 'HDZero Kamera Produkte',
+                                link: '/de/camera-summary.md',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Nano90 V2 Kamera', link: '/de/camera-nano90-v2.md'},
+                                    {text: 'Micro V3 Kamera', link: '/de/camera-micro-v3.md'},
+                                    {text: 'Nano V3 Kamera', link: '/de/camera-nano-v3.md'},
+                                    {text: 'ECO Kamera', link: '/de/camera-eco.md'},
+                                    {text: 'Lux Kamera', link: '/de/camera-lux.md'},
+                                ],
+                            },
+                            {
+                                text: 'Auslaufende Kameras',
+                                link: '/de/camera-dis-summary.md',
+                                collapsed: true,
+                                items: [
+                                    {text: 'Nano90 Kamera', link: '/de/camera-nano90.md'},
+                                    {text: 'Micro V2 Kamera', link: '/de/camera-micro-v2.md'},
+                                    {text: 'Nano Kamera', link: '/de/camera-nano.md'},
+                                    {text: 'Nano lite Kamera', link: '/de/camera-nano-lite.md'},
+                                    {text: 'Nano V2 Kamera', link: '/de/camera-nano-v2.md'},
+                                ],
+                            },
+                        ],
+                    },
+                ],
+            },
+        },
+    },
 })

@@ -184,6 +184,13 @@ export default defineConfig({
                         text: 'FC & ESC',
                         items: [
                             {
+                                text: 'Gamma AIO', link: '/gamma-introduction',
+                                collapsed: true,
+                                items: [
+                                    { text: 'Firmware', link: '/gamma-firmware' },
+                                ]
+                            },
+                            {
                                 text: 'Halo Stack', link: '/halo-stack-introduction',
                                 collapsed: true,
                                 items: [
@@ -347,6 +354,13 @@ export default defineConfig({
                     {
                         text: '飞控 & 电调',
                         items: [
+                            {
+                                text: 'Gamma AIO', link: '/zh/gamma-introduction',
+                                collapsed: true,
+                                items: [
+                                    { text: '固件', link: '/zh/gamma-firmware' },
+                                ]
+                            },
                             {
                                 text: 'Halo 飞塔', link: '/zh/halo-stack-introduction',
                                 collapsed: true,
@@ -612,6 +626,13 @@ export default defineConfig({
                     {
                         text: 'FC & ESC',
                         items: [
+                            {
+                                text: 'Gamma AIO', link: '/de/gamma-introduction',
+                                collapsed: true,
+                                items: [
+                                    { text: 'Firmware', link: '/de/gamma-firmware' },
+                                ]
+                            },
                             {
                                 text: 'Halo Stack',
                                 link: '/de/halo-stack-introduction',

@@ -1,6 +1,6 @@
-# VTX Sockets
+# 图传插座
 
-| VTX               | FW Update | Keypad | Power/UART | HD VTX Plug | Camera |
+| 图传               | 固件更新 | Keypad | 电源/UART | HD VTX Plug | 摄像头 |
 | ----------------- | --------- | ------ | ---------- | ----------- | ------ |
 | AIO5              | B         |        |            |             |        |
 | AIO15             | B         |        |            |             |        |
@@ -14,7 +14,7 @@
 | RACE V2(EOL)      | A         | C      |            |             | G      |
 | Freestyle V1(EOL) | A         | C      | E          |             | G      |
 
-| Socket | Parameter                |
+| 代号 | 型号                |
 | ------ | ------------------------ |
 | A      | 7-way SH 1.0mm           |
 | B      | 7-way SUR 0.8mm          |
@@ -24,6 +24,6 @@
 | F      | 6-way GH 1.25mm          |
 | G      | 20 Pin 0.4mm Pitch(MIPI) |
 
-| Miscellaneous     | parameter       |
+| 其他     | 型号       |
 | ----------------- | --------------- |
 | Keypad PCB Socket | 6-way GH 1.25mm |

@@ -120,6 +120,7 @@ export default defineConfig({
                             { text: 'VTX LED Pattern', link: '/vtx-led', },
                             { text: 'VTX Firmware Update Guide', link: '/vtx-firmware-update', },
                             { text: 'VTX Sockets', link: '/vtx-sockets', },
+                            { text: 'VTX Keypad', link: '/vtx-keypad', },
                             { text: 'FAQ', link: '/vtx-faq', },
                             {
                                 text: 'Discontinued Video Transmitters', link: '/vtx-dis-summary',
@@ -299,6 +300,7 @@ export default defineConfig({
                             { text: '基础说明', link: '/zh/vtx-general', },
                             { text: '图传 LED 模式', link: '/zh/vtx-led', },
                             { text: '图传固件更新指南', link: '/zh/vtx-firmware-update', },
+                            { text: '图传调参板', link: '/zh/vtx-keypad', },
                             { text: '图传插座', link: '/zh/vtx-sockets', },
                             { text: '常问问题', link: '/zh/vtx-faq', },
                             { text: '保修', link: '/zh/vtx-warranty', },
@@ -469,6 +471,7 @@ export default defineConfig({
                             { text: 'LED-индикация VTX', link: '/ru/vtx-led' },
                             { text: 'Обновление прошивки', link: '/ru/vtx-firmware-update' },
                             { text: 'VTX Sockets', link: '/ru/vtx-sockets', },
+                            { text: 'VTX Keypad', link: '/ru/vtx-keypad', },
                             { text: 'Часто задаваемые вопросы', link: '/ru/vtx-faq' },
                             { text: 'Гарантия', link: '/ru/vtx-warranty' }
                         ]
@@ -540,6 +543,7 @@ export default defineConfig({
                                 link: '/de/vtx-firmware-update',
                             },
                             {text: 'VTX Anschluss', link: '/de/vtx-sockets'},
+                            { text: 'VTX Keypad', link: '/de/vtx-keypad', },
                             {text: 'FAQ', link: '/de/vtx-faq'},
                             {
                                 text: 'Auslaufende Videosender',

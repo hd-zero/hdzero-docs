@@ -235,6 +235,29 @@ export default defineConfig({
                         ]
                     },
                     {
+                        text: 'Radio',
+                        items: [
+                            {
+                                text: 'HDZero Radio 2G4', link: '/radio-introduction',
+                                collapsed: true,
+                                items: [
+                                    { text: 'Diagram', link: '/radio-diagram'},
+                                    { text: 'Features', link: '/radio-features' },
+                                    { text: 'Specifications', link: '/radio-specifications' },
+                                    { text: 'Included Accessories', link: '/radio-included-accessories' },
+                                    { text: 'Operation', link: '/radio-operation'},
+                                    { text: 'ELRS Menu', link: '/radio-elrs-menu'},
+                                    { text: 'Connecting to a Simulator', link: '/radio-connecting-to-a-simulator'},
+                                    { text: 'Trainer Jack (DSC)', link: '/radio-trainer-jack-dsc'},
+                                    { text: 'Firmware Update', link: '/radio-firmware-update'},
+                                    { text: 'Joystick Storage', link: '/radio-joystick-storage'},
+                                    { text: 'Antenna Replacement', link: '/radio-antenna-replacement'},
+                                    { text: 'Warranty', link: '/radio-warranty'},
+                                ]
+                            },
+                        ]
+                    },
+                    {
                         text: 'Camera',
                         items: [
                             {

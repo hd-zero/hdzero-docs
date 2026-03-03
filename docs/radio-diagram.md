@@ -1,6 +1,6 @@
 # Diagram
 
-<div style="display: flex;gap: 10px;">
+<div style="display: flex;gap: 10px;margin-top:20px">
 <img src="/radiomedia/diagram1.png" id="diagram1" width="800">
 </div>
 

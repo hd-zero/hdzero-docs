@@ -115,7 +115,7 @@ Here are the steps:
 
 1. Download Unlock_Lowband.zip from www.hd-zero.com/document
 
-2. Unzip and flash as a firmware update to your VTX.
+2. Unzip and flash as a firmware update to your VTX. Unplug the programmer cable from the VTX.
 
 3. Power on the VTX with main battery power. The BLUE LED should flash 5 times and then goes out, to indicate that the unlock has completed.
 

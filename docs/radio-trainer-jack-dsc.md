@@ -6,7 +6,7 @@ The HDZero Radio's trainer jack supports multiple functions, including training 
 <img src="/radiomedia/trainer-jack.png" id="image50" width="400">
 </div>
 
-## Coach/Mastar Mode
+## Coach/Master Mode
 
 The HDZero Radio can be a master controller, receiving signals from a slave radio. It allows selection of source signal percentage or use of the channel switch action on/off.
 

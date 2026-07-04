@@ -116,9 +116,9 @@ export default defineConfig({
                                 ]
                             },
                             { text: 'VTX Installation Diagram', link: '/vtx-installation', },
-                            { text: 'General Considerations', link: '/vtx-general', },
-                            { text: 'VTX LED Pattern', link: '/vtx-led', },
-                            { text: 'VTX Firmware Update Guide', link: '/vtx-firmware-update', },
+                            { text: 'Getting Started', link: '/vtx-general', },
+                            { text: 'LED Pattern', link: '/vtx-led', },
+                            { text: 'Firmware Update Guide', link: '/vtx-firmware-update', },
                             { text: 'VTX Sockets', link: '/vtx-sockets', },
                             { text: 'VTX Keypad', link: '/vtx-keypad', },
                             { text: 'FAQ', link: '/vtx-faq', },

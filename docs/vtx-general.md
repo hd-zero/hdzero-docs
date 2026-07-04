@@ -165,7 +165,7 @@ Note that after first arm, the vtx will not enter LP mode again until vbat power
 
 ### OFFSET_25MW: (Set to ‘0’ if you don’t know how it works)
 
-It is to fine tune the RF output power to be exactly 25mW. The range is [-10:10], and step size is about 0.1dB per step.
+It is to fine tune the RF output power to be exactly 25mW. The range is [-10:10], and step size is about 0.25dBm per step.
 
 ### TEAM_RACE: (Set to ‘OFF’ if you don’t know how it works)
 

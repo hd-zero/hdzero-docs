@@ -147,7 +147,7 @@ The desired RF power level is selectable between 25mW, 200mW (and 500mW or MAX f
 
 - OFF: The output RF power will be set to POWER setting.
 
-- P1MW: The output RF power will be 0.1mW (in order to not interfere with other pilots) in this mode. Exit using the radio shortcut or via the VTX menu.
+- P1MW: The output RF power will be 0.1mW (in order to not interfere with other pilots) in this mode. Exit using the VTX menu.
 
 - 0MW: There will be zero RF output in this mode. Exit using the radio shortcut or via the VTX menu.
 

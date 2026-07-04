@@ -182,7 +182,7 @@ Two different stick commands are provided for switching or exiting 0mW. See the 
 ::: tip
 Notes:
 
-- HDZero VTX will still become hot even on P1mW mode. It is better to keep VTX on 0mW when it will be idle for a while. Though the receiver will not have live video on this mode, it will come back as soon as the aircraft is armed.
+- HDZero VTX will still become hot even on P1mW mode. It is better to keep VTX on 0mW when it will be idle for a while. Though the receiver will not have live video on this mode, it will come back as soon as the exit using radio shotcut.
 
 - Use sticks shortcut to enter 0mW, and to exit 0mW mode.
 :::
@@ -209,7 +209,7 @@ Notes:
 - TEAM_RACE: MODE1
 - SHORTCUT: OPT_A
 
-  - When VTX boots up, it is on 0mW. It will start to transmit when armed or Stick Command (OPT-A \ /) exit 0mW
+  - When VTX boots up, it is on 0mW. It will start to transmit when using Stick Command (OPT-A \ /) to exit 0mW
   - When you crash during the race, your VTX might continue transmitting, which will interference your teammate’s video signal that is on the same channel as yours, you need to
     - Disarm, and use Stick Command (OPT-A  /  \) to enter into 0mW, this will work only when your FC still functions,
     - VTX will automatically switch to 0mW after several seconds if VTX fails to communicate with FC (FC could be dead because of crash)

@@ -1,4 +1,4 @@
-# General Considerations
+# Getting Started
 ## Update VTX Firmware
 
 Please update VTX firmware to the latest version to ensure compatibility with the latest cameras, flight controller software, and video receivers. It is not required for VTX firmware version to match video receiver version, but it is recommended. See [firmware update instructions](vtx-firmware-update.md) below.
@@ -147,13 +147,9 @@ The desired RF power level is selectable between 25mW, 200mW (and 500mW or MAX f
 
 - OFF: The output RF power will be set to POWER setting.
 
-- P1MW: The output RF power will be 0.1mW (in order to not interfere with other pilots) in this mode. If the aircraft is armed, RF output power will be automatically set to the POWER within seconds.
+- P1MW: The output RF power will be 0.1mW (in order to not interfere with other pilots) in this mode. Exit using the radio shortcut or via the VTX menu.
 
-- 0MW: There will be zero RF output in this mode. If aircraft is armed, RF output power will be automatically set to POWER within seconds.
-
-::: tip
-Note that after first arm, the vtx will not enter pit mode again until vbat power is reset
-:::
+- 0MW: There will be zero RF output in this mode. Exit using the radio shortcut or via the VTX menu.
 
 ### LP_MODE:  (Set to ‘OFF’ if you don’t know how it works)
 

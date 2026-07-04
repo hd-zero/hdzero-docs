@@ -182,7 +182,7 @@ Two different stick commands are provided for switching or exiting 0mW. See the 
 ::: tip
 Notes:
 
-- HDZero VTX will still become hot even on P1mW mode. It is better to keep VTX on 0mW when it will be idle for a while. Though the receiver will not have live video on this mode, it will come back as soon as the exit using radio shotcut.
+- HDZero VTX will still become hot even on P1mW mode. It is better to keep VTX on 0mW when it will be idle for a while though the receiver will not have live video on this mode.
 
 - Use sticks shortcut to enter 0mW, and to exit 0mW mode.
 :::

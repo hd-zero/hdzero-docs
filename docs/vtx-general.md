@@ -197,7 +197,7 @@ Notes:
 - TEAM_RACE: OFF
 - SHORTCUT: OPT_A
 
-  - When you are waiting for ARM command from race director, Use Stick Command (OPT-A  /  \) to enter into 0mW to avoid VTX overheats, no video in goggle
+  - When you are waiting for ARM command from race director, Use Stick Command (OPT-A  /  \\) to enter into 0mW to avoid VTX overheats, no video in goggle
   - Right before ARM command from director, use Stick Command (OPT-A  \ /) to exit 0mW, you will have video in Goggle right away.
 ### Typical Setting for Team Racing
 

@@ -2,7 +2,7 @@
 
 The HDZero Freestyle V2 VTX is our 2nd generation 5.8GHz digital video transmitter which can be installed into most 3-5-inch HD drones. All sockets are well protected by the CNC case that provides durability, RF shielding and improved signal integrity. A wire harness is included for solderless connection for power and MSP UART port. The antenna and MIPI cable are secured by the included retention bar and screws.
 
-Freestyle V2 VTX is capable of 1W RF output on channel R1 – output decreases as frequency increases. From the factory, the VTX is limited to 200mW output. To unlock full power, follow the instructions for [unlocking power limit](vtx-firmware-update.md#unlock-rf-power-limit).
+Freestyle V2 VTX is capable of 900mW RF output on channel R1 – output decreases as frequency increases. From the factory, the VTX is limited to 200mW output. To unlock full power, follow the instructions for [unlocking power limit](vtx-firmware-update.md#unlock-rf-power-limit).
 
 <div style="display: flex;gap: 10px;">
 <img src="/media/image16.png" id="image13"><img src="/media/image17.png" id="image14">

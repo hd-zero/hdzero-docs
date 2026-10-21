@@ -80,7 +80,7 @@ Note: Putting an empty file named as “DONOTREMOVE.txt” file on SD card root 
 
 ## Unlock RF Power Limit
 
-HDZero Freestyle V1/V2 VTX is compliant with FCC 47 CFR 97.215(c). It is limited to 25mW/200mW out of the box, but it is capable of up to 1W if you have the required HAM radio license to use this power output. Download the special firmware from Utilities section on [HDZero Download](https://www.hd-zero.com/document) to enable higher RF output modes.
+HDZero Freestyle V1/V2 VTX is compliant with FCC 47 CFR 97.215(c). It is limited to 25mW/200mW out of the box, but it is capable of up to 900mW if you have the required HAM radio license to use this power output. Download the special firmware from Utilities section on [HDZero Download](https://www.hd-zero.com/document) to enable higher RF output modes.
 
 Here are the steps:
 

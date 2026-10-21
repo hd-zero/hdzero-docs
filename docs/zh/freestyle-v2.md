@@ -2,7 +2,7 @@
 
 HDZero Freestyle V2 VTX 是我们的第二代 5.8GHz 数字视频发射器，可安装于大多数 3-5 英寸高清无人机。所有接口均由 CNC 加工的外壳提供良好的保护，从而提供耐用性、射频屏蔽和更高的信号完整性。产品附带线束，用于电源和 MSP UART 端口的无焊连接。天线和 MIPI 线缆由随附的固定杆和螺丝固定。
 
-Freestyle V2 VTX 在 R1 通道上能够输出 1W 的射频功率，输出功率会随着频率的升高而降低。出厂时，VTX 的输出功率限制为 200mW。如需解锁最大功率，请按照以下说明操作： 。
+Freestyle V2 VTX 在 R1 通道上能够输出 900mW 的射频功率，输出功率会随着频率的升高而降低。出厂时，VTX 的输出功率限制为 200mW。如需解锁最大功率，请按照以下说明操作： 。
 
 <div style="display: flex;gap: 10px;">
 <img src="/media/image16.png" id="image13"><img src="/media/image17.png" id="image14">
@@ -79,6 +79,7 @@ Freestyle V2 VTX 在 R1 通道上能够输出 1W 的射频功率，输出功率�
 <img src="/media/image20.png" id="image17">
 
 ## 安装
+
 请勿将 VTX 天线布置在 VTX 顶部，天线必须直接从 VTX 背面出来。
 
 Freestyle V2 VTX 可以使用 M2 螺钉或随附的双面胶带安装。在某些情况下，需要使用双面胶带而非螺钉安装 VTX，以避免无人机启动时产生电气噪音。

@@ -61,7 +61,7 @@
 <td rowspan="2">RF-Ausgangsleistung</td>
 <td rowspan="2">25mW, 200mW</td>
 <td rowspan="2">25mW, 200mW</td>
-<td rowspan="2">25mW, 200mW (500mW,<br>1W mit HAM-Lizenz-Freischaltung)</td>
+<td rowspan="2">25mW, 200mW (500mW,<br>900mW mit HAM-Lizenz-Freischaltung)</td>
 <td rowspan="2">25mW, 200mW</td>
 </tr>
 <tr>

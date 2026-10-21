@@ -64,7 +64,7 @@ Die folgenden VTX-Modelle wurden eingestellt und werden nicht mehr produziert. F
 <td rowspan="2">25mW, 200mW</td>
 <td rowspan="2">25mW, 200mW</td>
 <td rowspan="2">25mW, 200mW</td>
-<td rowspan="2">25mW, 200mW (500mW,<br>1W mit HAM-Lizenz)</td>
+<td rowspan="2">25mW, 200mW (500mW,<br>900mW mit HAM-Lizenz)</td>
 </tr>
 <tr>
 </tr>

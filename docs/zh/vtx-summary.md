@@ -61,7 +61,7 @@
 <td rowspan="2">射频功率输出</td>
 <td rowspan="2">25mW, 200mW</td>
 <td rowspan="2">25mW, 200mW</td>
-<td rowspan="2">25mW, 200mW (解锁 HAM 许可证后为 500mW、1W )</td>
+<td rowspan="2">25mW, 200mW (解锁 HAM 许可证后为 500mW、900mW )</td>
 <td rowspan="2">25mW, 200mW</td>
 </tr>
 <tr>

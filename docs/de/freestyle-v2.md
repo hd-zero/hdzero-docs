@@ -2,7 +2,7 @@
 
 Der HDZero Freestyle V2 VTX ist unser 2. Generation 5,8GHz Digital-Video-Sender, der in die meisten 3-5-Zoll-HD-Drohnen eingebaut werden kann. Alle Anschlüsse sind durch das CNC-Gehäuse gut geschützt, das Haltbarkeit, HF-Abschirmung und verbesserte Signalqualität bietet. Ein Kabelbaum ist für eine lötfreie Verbindung für Stromversorgung und MSP-UART-Port enthalten. Die Antenne und das MIPI-Kabel werden durch die mitgelieferte Haltestange und Schrauben gesichert.
 
-Der Freestyle V2 VTX ist in der Lage, auf Kanal R1 eine HF-Ausgangsleistung von 1W zu liefern – die Ausgangsleistung nimmt mit steigender Frequenz ab. Ab Werk ist der VTX auf 200mW Ausgangsleistung begrenzt. Um die volle Leistung freizuschalten, folgen Sie den Anweisungen zum [Entsperren der Leistungsbegrenzung](vtx-firmware-update.md#unlock-rf-power-limit).
+Der Freestyle V2 VTX ist in der Lage, auf Kanal R1 eine HF-Ausgangsleistung von 900mW zu liefern – die Ausgangsleistung nimmt mit steigender Frequenz ab. Ab Werk ist der VTX auf 200mW Ausgangsleistung begrenzt. Um die volle Leistung freizuschalten, folgen Sie den Anweisungen zum [Entsperren der Leistungsbegrenzung](vtx-firmware-update.md#unlock-rf-power-limit).
 
 <div style="display: flex;gap: 10px;">
 <img src="/media/image16.png" id="image13"><img src="/media/image17.png" id="image14">
@@ -42,7 +42,6 @@ Der Freestyle V2 VTX ist in der Lage, auf Kanal R1 eine HF-Ausgangsleistung von 
 <div style="display: flex;gap: 10px;">
 <img src="/media/image18.png" id="image15"><img src="/media/image19.png" id="image16">
 </div>
-
 
 <table id="table7">
 <tr>

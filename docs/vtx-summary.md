@@ -61,7 +61,7 @@
 <td rowspan="2">RF Power Output</td>
 <td rowspan="2">25mW, 200mW</td>
 <td rowspan="2">25mW, 200mW</td>
-<td rowspan="2">25mW, 200mW (500mW,<br>1W with HAM license unlock)</td>
+<td rowspan="2">25mW, 200mW (500mW,<br>900mW with HAM license unlock)</td>
 <td rowspan="2">25mW, 200mW</td>
 </tr>
 <tr>

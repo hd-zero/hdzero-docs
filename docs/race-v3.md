@@ -15,7 +15,7 @@ The HDZero Race V3 VTX is designed with durability in mind, rather than weight. 
 </tr>
 <tr>
 <td>2</td>
-<td>SmartAudio/Tramp (Optional)</td>
+<td>SmartAudio/Tramp (No longer supported)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -33,7 +33,7 @@ The HDZero Race V3 VTX is designed with durability in mind, rather than weight. 
 
 ## Installation
 
-The right figure shows the typical connection with FC supports MSP VTX protocol.<img src="/media/image15.png" id="image12"> Do not power Race V3 VTX from VBAT, it is designed to be plugged into a digital VTX port on a FC which has a BEC (5V-12V). Race V3 can also be powered on most FC 5V pads if rated for at least 2A.
+The right figure shows the typical connection with FC supports MSP VTX protocol. Do not power Race V3 VTX from VBAT, it is designed to be plugged into a digital VTX port on a FC which has a BEC (5V-12V). Race V3 can also be powered on most FC 5V pads if rated for at least 2A.
 
 Install on top of a 20x20mm stack using the included M3 rubber grommets. Orient the VTX so that the MIPI or antenna connector faces the front of the drone. This ensures the most protection for the PCB.
 

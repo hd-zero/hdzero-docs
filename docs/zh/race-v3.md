@@ -15,7 +15,7 @@ HDZero Race V3 VTX 的设计更注重耐用性，而非重量。它的 PCB 厚�
 </tr>
 <tr>
 <td>2</td>
-<td>SmartAudio/Tramp（可选）</td>
+<td>SmartAudio/Tramp（不再支持）</td>
 </tr>
 <tr>
 <td>3</td>
@@ -33,7 +33,7 @@ HDZero Race V3 VTX 的设计更注重耐用性，而非重量。它的 PCB 厚�
 
 ## 安装
 
-右图显示了支持 MSP VTX 协议的飞控的典型连接。<img src="/media/image15.png" id="image12"> 请勿使用 VBAT 为 Race V3 VTX 供电，它设计为插入带有 BEC（5V-12V）的飞控的数字 VTX 端口。Race V3 也可以使用大多数 5V 飞控供电板供电，前提是额定电流至少为 2A。
+右图显示了支持 MSP VTX 协议的飞控的典型连接。 请勿使用 VBAT 为 Race V3 VTX 供电，它设计为插入带有 BEC（5V-12V）的飞控的数字 VTX 端口。Race V3 也可以使用大多数 5V 飞控供电板供电，前提是额定电流至少为 2A。
 
 使用随附的 M3 橡胶垫圈将其安装在 20x20mm 的堆叠顶部。调整 VTX 的方向，使 MIPI 或天线连接器朝向无人机的正面。这样可以最大程度地保护 PCB。
 

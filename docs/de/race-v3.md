@@ -15,7 +15,7 @@ Der HDZero Race V3 VTX ist auf Langlebigkeit ausgelegt, nicht auf Gewicht. Er be
 </tr>
 <tr>
 <td>2</td>
-<td>SmartAudio/Tramp (Optional)</td>
+<td>SmartAudio/Tramp (No longer supported)</td>
 </tr>
 <tr>
 <td>3</td>
@@ -33,7 +33,7 @@ Der HDZero Race V3 VTX ist auf Langlebigkeit ausgelegt, nicht auf Gewicht. Er be
 
 ## Installation
 
-Die rechte Abbildung zeigt die typische Verbindung mit einem FC, der das MSP VTX-Protokoll unterstützt.<img src="/media/image15.png" id="image12"> Versorgen Sie den Race V3 VTX nicht über VBAT, er ist dafür ausgelegt, an einen digitalen VTX-Port eines FCs mit BEC (5V-12V) angeschlossen zu werden. Race V3 kann auch an den meisten FC 5V-Pads betrieben werden, wenn diese für mindestens 2A ausgelegt sind.
+Die rechte Abbildung zeigt die typische Verbindung mit einem FC, der das MSP VTX-Protokoll unterstützt. Versorgen Sie den Race V3 VTX nicht über VBAT, er ist dafür ausgelegt, an einen digitalen VTX-Port eines FCs mit BEC (5V-12V) angeschlossen zu werden. Race V3 kann auch an den meisten FC 5V-Pads betrieben werden, wenn diese für mindestens 2A ausgelegt sind.
 
 Montieren Sie ihn oben auf einem 20x20mm Stack mit den beiliegenden M3-Gummitüllen. Richten Sie den VTX so aus, dass der MIPI- oder Antennenanschluss nach vorne zeigt. So ist die Platine am besten geschützt.
 
